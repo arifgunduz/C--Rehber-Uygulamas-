@@ -1,0 +1,16 @@
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.exe
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.deps.json
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.runtimeconfig.json
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.runtimeconfig.dev.json
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.dll
+C:\.net-pratik\rehber-uygulamasi\bin\Debug\net5.0\rehber-uygulamasi.pdb
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.csproj.AssemblyReference.cache
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.AssemblyInfoInputs.cache
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.AssemblyInfo.cs
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.csproj.CoreCompileInputs.cache
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.dll
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\refint\rehber-uygulamasi.dll
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.pdb
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\rehber-uygulamasi.genruntimeconfig.cache
+C:\.net-pratik\rehber-uygulamasi\obj\Debug\net5.0\ref\rehber-uygulamasi.dll
